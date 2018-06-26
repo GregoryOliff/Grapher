@@ -14,61 +14,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+      <file leaf-file-name="Grapher.Api.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
+      <file leaf-file-name="Grapher.Core.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-              <folding>
-                <marker date="1530038373796" expanded="false" signature="6:338" ph="..." />
-                <marker date="1530038373796" expanded="true" signature="361:3315" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="388:3313" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="447:510" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="731:2262" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="797:947" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="1013:1284" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="2460:3307" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="2507:2584" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="2601:2686" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="2822:2988" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="3031:3262" ph="{...}" />
-                <marker date="1530038373796" expanded="true" signature="3141:3248" ph="{...}" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
+      <file leaf-file-name="Grapher.Data.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="241" column="24" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
+            <state relative-caret-position="270">
+              <caret line="18" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClientApp/public/favicon.ico">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClientApp/public/manifest.json">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="ALE.csproj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ALE.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -79,6 +58,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nokogiri</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -142,6 +126,7 @@
         <option value="$PROJECT_DIR$/Grapher.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" />
         <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/ALE.csproj" />
       </list>
     </option>
   </component>
@@ -178,13 +163,17 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="ClientApp" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Grapher.Api" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="ClientApp" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="public" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Grapher.Core" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Grapher.Data" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
           </expand>
           <select />
@@ -226,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
       <workItem from="1530012891129" duration="15416000" />
-      <workItem from="1530035367855" duration="4530000" />
+      <workItem from="1530035367855" duration="4759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19946000" />
+    <option name="totallyTimeSpent" value="20175000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,27 +291,6 @@
             <marker date="1530018189280" expanded="true" signature="801:873" ph="{...}" />
             <marker date="1530018189280" expanded="true" signature="927:1063" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -514,10 +482,10 @@
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="315">
+          <caret line="241" column="24" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -543,6 +511,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -552,10 +527,31 @@
     <entry file="file://$PROJECT_DIR$/ClientApp/public/manifest.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="241" column="24" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALE.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
         </state>
       </provider>
     </entry>
