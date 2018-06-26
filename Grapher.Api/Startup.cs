@@ -24,8 +24,21 @@ namespace Grapher.Api
         //This method gets called by runtime, use to add services to the container
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
-
+            services.AddMvc(
+                options =>
+                {
+                    options.SslPort = 5000;
+                    options.Filters.Add(new RequireHttpsAttribute());
+                });
+            services.AddAntiForgery(
+                options =>
+                {
+                    options.Cookie.Name = "_af";
+                    options.Cookie.HttpOnly = true;
+                    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+                    options.HeaderName = "X-XSRF-TOKEN";
+                });
+            services.AddSpaStaticFiles(configuration => { configuration.RootPath = "ClientApp/build"; })
             services.AddDbContext<GrapherContext>(options =>
                 options.UseSqlServer(Configuration["ConnectionStrings:GrapherDb"]));
             services.AddTransient<IAircraftRepository, AircraftRepository>();
@@ -48,9 +61,29 @@ namespace Grapher.Api
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                app.UseExceptionHandler("/Home/Error/");
+            }
 
+            app.UseStaticFiles();
+            app.UseSpaStaticFiles():
             app.UseGraphiQl();
-            app.UseMvc();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller}/{action=Index}/{id?}");
+            });
+            app.UseSpaStaticFiles(spa =>
+            {
+                spa.Options.SourcePath = "ClientApp";
+
+                if (env.IsDevelopment())
+                {
+                    spa.UseReactDevelopmentServer(npmScript: "start");
+                }
+            });
             db.EnsureSeedData();
         }
     }

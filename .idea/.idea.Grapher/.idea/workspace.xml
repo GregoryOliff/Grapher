@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Startup.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +13,71 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="593">
+              <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+              <folding>
+                <marker date="1530038373796" expanded="false" signature="6:338" ph="..." />
+                <marker date="1530038373796" expanded="true" signature="361:3315" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="388:3313" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="447:510" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="731:2262" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="797:947" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="1013:1284" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="2460:3307" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="2507:2584" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="2601:2686" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="2822:2988" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="3031:3262" ph="{...}" />
+                <marker date="1530038373796" expanded="true" signature="3141:3248" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +104,7 @@
     <setting file="file://$PROJECT_DIR$/Grapher.Data/GrapherContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grapher.Data/GrapherSeedData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,8 +126,6 @@
         <option value="$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs" />
         <option value="$PROJECT_DIR$/Grapher.Data/GrapherContext.cs" />
         <option value="$PROJECT_DIR$/Grapher.Data/GrapherSeedData.cs" />
-        <option value="$PROJECT_DIR$/Grapher.Api/Program.cs" />
-        <option value="$PROJECT_DIR$/Grapher.Api/Startup.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs" />
@@ -71,6 +135,10 @@
         <option value="$PROJECT_DIR$/Grapher.Api/Models/AircraftInputType.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/FlightInputType.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/manifest.json" />
+        <option value="$PROJECT_DIR$/Grapher.Api/Program.cs" />
+        <option value="$PROJECT_DIR$/Grapher.Api/Startup.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +149,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1928" />
@@ -102,45 +172,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Api" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Api" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Controllers" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Api" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Models" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Core" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Core" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Models" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Data" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Data" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Repositories" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -150,7 +181,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -176,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
       <workItem from="1530012891129" duration="15416000" />
-      <workItem from="1530035367855" duration="897000" />
+      <workItem from="1530035367855" duration="2908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16313000" />
+    <option name="totallyTimeSpent" value="18324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,20 +230,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Unit Tests" order="3" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info anchor="bottom" id="NuGet" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32897604" />
+      <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.25266525" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info id="Structure" order="2" sideWeight="0.50108933" side_tool="true" weight="0.25266525" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
@@ -216,7 +254,6 @@
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,20 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.Development.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -453,6 +476,55 @@
           <folding>
             <marker date="1530034161809" expanded="false" signature="6:45" ph="..." />
             <marker date="1530034161809" expanded="true" signature="125:1348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <folding>
+            <marker date="1530038373796" expanded="false" signature="6:338" ph="..." />
+            <marker date="1530038373796" expanded="true" signature="361:3315" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="388:3313" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="447:510" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="731:2262" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="797:947" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="1013:1284" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="2460:3307" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="2507:2584" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="2601:2686" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="2822:2988" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="3031:3262" ph="{...}" />
+            <marker date="1530038373796" expanded="true" signature="3141:3248" ph="{...}" />
           </folding>
         </state>
       </provider>
