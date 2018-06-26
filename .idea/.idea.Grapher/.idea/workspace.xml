@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="" />
+    <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +13,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Grapher.Api.csproj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj">
+      <file leaf-file-name="Grapher.Data.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+            <state relative-caret-position="255">
+              <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Grapher.Core.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj">
+      <file leaf-file-name="GraphQLController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Grapher.Data.csproj" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
+      <file leaf-file-name="GraphQLQuery.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="GrapherMutation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="GrapherSchema.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DataType.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/DataType.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -35,10 +72,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Models/DataType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj" />
         <option value="$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj" />
+        <option value="$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj" />
+        <option value="$PROJECT_DIR$/Grapher.Api/Models/appsettings.json" />
       </list>
     </option>
   </component>
@@ -68,11 +117,6 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="Grapher.Api" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -119,12 +163,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
-      <workItem from="1530012891129" duration="542000" />
+      <workItem from="1530012891129" duration="1500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542000" />
+    <option name="totallyTimeSpent" value="1500000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -137,7 +181,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="24" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -171,18 +214,60 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/DataType.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
