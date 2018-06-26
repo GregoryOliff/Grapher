@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/DataType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Program.cs" afterDir="false" />
@@ -105,21 +107,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="GrapherSchema.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-                  <folding>
-                    <marker date="1530030451002" expanded="false" signature="6:35" ph="..." />
-                    <marker date="1530030451002" expanded="true" signature="65:331" ph="{...}" />
-                    <marker date="1530030451002" expanded="true" signature="107:329" ph="{...}" />
-                    <marker date="1530030451002" expanded="true" signature="189:323" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="GrapherQuery.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs">
               <provider selected="true" editor-type-id="text-editor">
@@ -133,7 +120,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="AircraftRepository.cs" pinned="false" current-in-tab="true">
+          <file leaf-file-name="AircraftRepository.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Grapher.Data/Repositories/AircraftRepository.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="90">
@@ -152,11 +139,25 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="Flight.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Flight.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+                  <folding>
+                    <marker date="1530018059156" expanded="false" signature="6:47" ph="..." />
+                    <marker date="1530018059156" expanded="true" signature="78:410" ph="{...}" />
+                    <marker date="1530018059156" expanded="true" signature="104:408" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="GrapherQuery.cs" pinned="false" current-in-tab="true">
+          <file leaf-file-name="GrapherQuery.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
@@ -170,15 +171,47 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Aircraft.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Aircraft.cs">
+          <file leaf-file-name="GrapherMutation.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+                <state relative-caret-position="270">
+                  <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
                   <folding>
-                    <marker date="1530015562412" expanded="false" signature="6:47" ph="..." />
-                    <marker date="1530015562412" expanded="true" signature="78:350" ph="{...}" />
-                    <marker date="1530015562412" expanded="true" signature="106:348" ph="{...}" />
+                    <marker date="1530031249419" expanded="false" signature="6:72" ph="..." />
+                    <marker date="1530031249419" expanded="true" signature="102:751" ph="{...}" />
+                    <marker date="1530031249419" expanded="true" signature="155:749" ph="{...}" />
+                    <marker date="1530031249419" expanded="true" signature="232:743" ph="{...}" />
+                    <marker date="1530031249419" expanded="true" signature="556:731" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AircraftType.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+                  <folding>
+                    <marker date="1530033341988" expanded="false" signature="6:72" ph="..." />
+                    <marker date="1530033341988" expanded="true" signature="102:864" ph="{...}" />
+                    <marker date="1530033341988" expanded="true" signature="162:862" ph="{...}" />
+                    <marker date="1530033341988" expanded="true" signature="236:856" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FlightType.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="225">
+                  <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+                  <folding>
+                    <marker date="1530033344547" expanded="false" signature="6:72" ph="..." />
+                    <marker date="1530033344547" expanded="true" signature="102:793" ph="{...}" />
+                    <marker date="1530033344547" expanded="true" signature="158:791" ph="{...}" />
+                    <marker date="1530033344547" expanded="true" signature="226:785" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -240,6 +273,9 @@
         <option value="$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs" />
+        <option value="$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs" />
+        <option value="$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs" />
+        <option value="$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs" />
       </list>
     </option>
   </component>
@@ -338,12 +374,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
-      <workItem from="1530012891129" duration="11630000" />
+      <workItem from="1530012891129" duration="13989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11630000" />
+    <option name="totallyTimeSpent" value="13989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,12 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -437,9 +467,6 @@
           <caret line="2" column="131" selection-start-line="2" selection-start-column="131" selection-end-line="2" selection-end-column="131" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/AircraftInputType.cs">
       <provider selected="true" editor-type-id="text-editor" />
@@ -564,18 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Flight.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <marker date="1530018059156" expanded="false" signature="6:47" ph="..." />
-            <marker date="1530018059156" expanded="true" signature="78:410" ph="{...}" />
-            <marker date="1530018059156" expanded="true" signature="104:408" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -628,30 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-          <folding>
-            <marker date="1530030344389" expanded="true" signature="57:289" ph="{...}" />
-            <marker date="1530030344389" expanded="true" signature="89:287" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-          <folding>
-            <marker date="1530030451002" expanded="false" signature="6:35" ph="..." />
-            <marker date="1530030451002" expanded="true" signature="65:331" ph="{...}" />
-            <marker date="1530030451002" expanded="true" signature="107:329" ph="{...}" />
-            <marker date="1530030451002" expanded="true" signature="189:323" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Data/Repositories/AircraftRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -669,18 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Aircraft.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <marker date="1530015562412" expanded="false" signature="6:47" ph="..." />
-            <marker date="1530015562412" expanded="true" signature="78:350" ph="{...}" />
-            <marker date="1530015562412" expanded="true" signature="106:348" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -689,6 +668,94 @@
             <marker date="1530031015552" expanded="false" signature="6:45" ph="..." />
             <marker date="1530031015552" expanded="true" signature="75:755" ph="{...}" />
             <marker date="1530031015552" expanded="true" signature="125:753" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherMutation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+          <folding>
+            <marker date="1530031249419" expanded="false" signature="6:72" ph="..." />
+            <marker date="1530031249419" expanded="true" signature="102:751" ph="{...}" />
+            <marker date="1530031249419" expanded="true" signature="155:749" ph="{...}" />
+            <marker date="1530031249419" expanded="true" signature="232:743" ph="{...}" />
+            <marker date="1530031249419" expanded="true" signature="556:731" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Aircraft.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding>
+            <marker date="1530015562412" expanded="false" signature="6:47" ph="..." />
+            <marker date="1530015562412" expanded="true" signature="78:350" ph="{...}" />
+            <marker date="1530015562412" expanded="true" signature="106:348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+          <folding>
+            <marker date="1530030451002" expanded="false" signature="6:35" ph="..." />
+            <marker date="1530030451002" expanded="true" signature="65:331" ph="{...}" />
+            <marker date="1530030451002" expanded="true" signature="107:329" ph="{...}" />
+            <marker date="1530030451002" expanded="true" signature="189:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GraphQLQuery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <marker date="1530030344389" expanded="true" signature="57:289" ph="{...}" />
+            <marker date="1530030344389" expanded="true" signature="89:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Flight.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1530018059156" expanded="false" signature="6:47" ph="..." />
+            <marker date="1530018059156" expanded="true" signature="78:410" ph="{...}" />
+            <marker date="1530018059156" expanded="true" signature="104:408" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/AircraftType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <marker date="1530033341988" expanded="false" signature="6:72" ph="..." />
+            <marker date="1530033341988" expanded="true" signature="102:864" ph="{...}" />
+            <marker date="1530033341988" expanded="true" signature="162:862" ph="{...}" />
+            <marker date="1530033341988" expanded="true" signature="236:856" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <marker date="1530033344547" expanded="false" signature="6:72" ph="..." />
+            <marker date="1530033344547" expanded="true" signature="102:793" ph="{...}" />
+            <marker date="1530033344547" expanded="true" signature="158:791" ph="{...}" />
+            <marker date="1530033344547" expanded="true" signature="226:785" ph="{...}" />
           </folding>
         </state>
       </provider>
