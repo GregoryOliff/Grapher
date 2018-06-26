@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Grapher.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grapher.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="246" column="25" lean-forward="true" selection-start-line="246" selection-start-column="25" selection-end-line="246" selection-end-column="25" />
+            <state relative-caret-position="288">
+              <caret line="241" column="24" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -71,7 +66,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/public/manifest.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -145,8 +140,8 @@
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/Grapher.Api/Program.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Startup.cs" />
-        <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" />
         <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" />
+        <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -231,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
       <workItem from="1530012891129" duration="15416000" />
-      <workItem from="1530035367855" duration="4167000" />
+      <workItem from="1530035367855" duration="4530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19583000" />
+    <option name="totallyTimeSpent" value="19946000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="246" column="25" lean-forward="true" selection-start-line="246" selection-start-column="25" selection-end-line="246" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -563,6 +551,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/public/manifest.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="241" column="24" selection-start-line="241" selection-start-column="24" selection-end-line="241" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
