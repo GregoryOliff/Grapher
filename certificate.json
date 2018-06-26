@@ -1,0 +1,6 @@
+{
+    "certificateSettings": {
+      "fileName": "Certs/localhost.pfx",
+      "password": "P@ssword1"
+    }
+}
