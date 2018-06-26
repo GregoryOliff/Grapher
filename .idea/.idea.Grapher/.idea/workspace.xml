@@ -9,7 +9,9 @@
       <change beforePath="$PROJECT_DIR$/Grapher.Core/Models/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Core/Models/Aircraft.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Core/Models/Flight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Core/Models/Flight.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Data/DesignTimeDbContextFactoryBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Data/DesignTimeDbContextFactoryBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Data/GrapherContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Data/GrapherContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Data/Repositories/DataRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Data/Repositories/AircraftRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grapher.Data/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.Data/appsettings.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DesignTimeDbContextFactoryBase.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DesignTimeDbContextFactoryBase.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Grapher.Data/DesignTimeDbContextFactoryBase.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="840">
@@ -115,6 +117,35 @@
                 <marker date="1530019605865" expanded="true" signature="981:1595" ph="{...}" />
                 <marker date="1530019605865" expanded="true" signature="1412:1548" ph="{...}" />
                 <marker date="1530019605865" expanded="true" signature="1653:2203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemporaryDbContextFactory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+              <folding>
+                <marker date="1530019751979" expanded="true" signature="60:338" ph="{...}" />
+                <marker date="1530019751979" expanded="true" signature="154:336" ph="{...}" />
+                <marker date="1530019751979" expanded="true" signature="262:330" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrapherContext.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Grapher.Data/GrapherContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              <folding>
+                <marker date="1530019890355" expanded="false" signature="6:63" ph="..." />
+                <marker date="1530019890355" expanded="true" signature="87:431" ph="{...}" />
+                <marker date="1530019890355" expanded="true" signature="140:429" ph="{...}" />
+                <marker date="1530019890355" expanded="true" signature="230:315" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -178,6 +209,8 @@
         <option value="$PROJECT_DIR$/Grapher.Core/Models/Flight.cs" />
         <option value="$PROJECT_DIR$/Grapher.Data/Repositories/FlightRepository.cs" />
         <option value="$PROJECT_DIR$/Grapher.Data/DesignTimeDbContextFactoryBase.cs" />
+        <option value="$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs" />
+        <option value="$PROJECT_DIR$/Grapher.Data/GrapherContext.cs" />
       </list>
     </option>
   </component>
@@ -248,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
-      <workItem from="1530012891129" duration="6401000" />
+      <workItem from="1530012891129" duration="6694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6401000" />
+    <option name="totallyTimeSpent" value="6694000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,12 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/GrapherContext.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Data/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -483,6 +510,31 @@
             <marker date="1530019605865" expanded="true" signature="981:1595" ph="{...}" />
             <marker date="1530019605865" expanded="true" signature="1412:1548" ph="{...}" />
             <marker date="1530019605865" expanded="true" signature="1653:2203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <marker date="1530019751979" expanded="true" signature="60:338" ph="{...}" />
+            <marker date="1530019751979" expanded="true" signature="154:336" ph="{...}" />
+            <marker date="1530019751979" expanded="true" signature="262:330" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Data/GrapherContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <marker date="1530019890355" expanded="false" signature="6:63" ph="..." />
+            <marker date="1530019890355" expanded="true" signature="87:431" ph="{...}" />
+            <marker date="1530019890355" expanded="true" signature="140:429" ph="{...}" />
+            <marker date="1530019890355" expanded="true" signature="230:315" ph="{...}" />
           </folding>
         </state>
       </provider>
