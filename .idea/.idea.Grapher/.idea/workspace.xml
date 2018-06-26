@@ -17,8 +17,8 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="244" column="21" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+            <state relative-caret-position="15">
+              <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -184,12 +184,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
       <workItem from="1530012891129" duration="15416000" />
-      <workItem from="1530035367855" duration="5160000" />
+      <workItem from="1530035367855" duration="5288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20576000" />
+    <option name="totallyTimeSpent" value="20704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,8 +519,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="244" column="21" selection-start-line="244" selection-start-column="21" selection-end-line="244" selection-end-column="21" />
+        <state relative-caret-position="15">
+          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
         </state>
       </provider>
     </entry>
