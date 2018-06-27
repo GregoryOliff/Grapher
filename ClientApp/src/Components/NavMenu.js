@@ -14,8 +14,7 @@ const sidebarProps = {
     },
     onOpen: () => {
         setState({opened: true})
-    },
-    topBar: (<div className='topBar'>BestDamnTopbar</div>)
+    }
 };
 
 export class NavMenu extends Component {
@@ -23,24 +22,12 @@ export class NavMenu extends Component {
     
     render() {
         return (
-            <Navbar inverse fixedTop fluid collapseOnSelect>
-                <Navbar.Header>
-                    <Navbar.Brand>
-                        <Link to={'/'}>ALE</Link>
-                    </Navbar.Brand>
-                    <Navbar.Toggle />
-                </Navbar.Header>
-                <Navbar.Collapse>
-                    <Nav>
-                        <LinkContainer to={'/'} exact>
-                            <NavItem>
-                                <Glyphicon glyph='home' /> Home
-                            </NavItem>
-                        </LinkContainer>S
-                    </Nav>
-                </Navbar.Collapse>
-                <Sidebar {sidebarProps} />
-            </Navbar>
+            <Sidebar {sidebarProps}>
+                <!-- Top Bar Content will be under topBar in css file-->
+                <div className='topBar'>SideBar</div>
+                <!-- Main page Content will be under main in css file-->
+                <div className='main'>main</div>
+            </Sidebar>        
         )
     }
 }

@@ -26264,17 +26264,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
-              <item name="node_modules" type="6f407253:SolutionExplorerNodeFileSystem" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -26320,12 +26309,12 @@
       <workItem from="1530098075613" duration="4330000" />
       <workItem from="1530106012006" duration="2612000" />
       <workItem from="1530113852858" duration="842000" />
-      <workItem from="1530115296480" duration="2577000" />
+      <workItem from="1530115296480" duration="2989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31219000" />
+    <option name="totallyTimeSpent" value="31631000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -26338,7 +26327,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
