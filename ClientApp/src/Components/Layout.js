@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Col, Grid, Row } from 'react-bootstrap';
+import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
+import { Col, Grid, Row } from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
 import { NavMenu } from './NavMenu';
 
 export class Layout extends Component {

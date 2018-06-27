@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
 
 export class Home extends Component {
     displayName = Home.name
