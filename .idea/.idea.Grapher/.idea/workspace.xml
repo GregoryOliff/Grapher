@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +17,17 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+            <state relative-caret-position="67">
+              <caret line="165" column="21" lean-forward="true" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="8735" column="9" selection-start-line="8735" selection-start-column="9" selection-end-line="8735" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -35,6 +44,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nokogiri</find>
+      <find>hoek</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,9 +107,9 @@
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/Grapher.Api/Program.cs" />
         <option value="$PROJECT_DIR$/Grapher.Api/Startup.cs" />
-        <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" />
         <option value="$PROJECT_DIR$/ALE.csproj" />
         <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" />
       </list>
     </option>
   </component>
@@ -115,8 +125,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="63" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -184,12 +193,13 @@
       <option name="presentableId" value="Default" />
       <updated>1530012888584</updated>
       <workItem from="1530012891129" duration="15416000" />
-      <workItem from="1530035367855" duration="5288000" />
+      <workItem from="1530035367855" duration="5442000" />
+      <workItem from="1530098075613" duration="189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20704000" />
+    <option name="totallyTimeSpent" value="21047000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,7 +211,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
@@ -213,10 +223,9 @@
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32897604" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.2553305" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="bottom" id="Find" order="8" />
       <window_info id="Structure" order="2" sideWeight="0.50108933" side_tool="true" weight="0.25266525" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -226,6 +235,7 @@
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,14 +246,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-          <folding>
-            <marker date="1530034161809" expanded="false" signature="6:45" ph="..." />
-            <marker date="1530034161809" expanded="true" signature="125:1348" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -251,15 +264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <marker date="1530018189280" expanded="false" signature="6:185" ph="..." />
-            <marker date="1530018189280" expanded="true" signature="278:1069" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="381:423" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="470:575" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="639:754" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="801:873" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="927:1063" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,15 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <marker date="1530018189280" expanded="false" signature="6:185" ph="..." />
-            <marker date="1530018189280" expanded="true" signature="278:1069" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="381:423" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="470:575" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="639:754" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="801:873" ph="{...}" />
-            <marker date="1530018189280" expanded="true" signature="927:1063" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -424,52 +419,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-          <folding>
-            <marker date="1530034161809" expanded="false" signature="6:45" ph="..." />
-            <marker date="1530034161809" expanded="true" signature="125:1348" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-          <folding>
-            <marker date="1530038373796" expanded="false" signature="6:338" ph="..." />
-            <marker date="1530038373796" expanded="true" signature="361:3315" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="388:3313" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="447:510" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="731:2262" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="797:947" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="1013:1284" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="2460:3307" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="2507:2584" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="2601:2686" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="2822:2988" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="3031:3262" ph="{...}" />
-            <marker date="1530038373796" expanded="true" signature="3141:3248" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,9 +441,6 @@
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/public/favicon.ico">
       <provider selected="true" editor-type-id="images" />
@@ -517,10 +476,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="8735" column="9" selection-start-line="8735" selection-start-column="9" selection-end-line="8735" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        <state relative-caret-position="67">
+          <caret line="165" column="21" lean-forward="true" selection-start-line="165" selection-start-column="21" selection-end-line="165" selection-end-column="21" />
         </state>
       </provider>
     </entry>
