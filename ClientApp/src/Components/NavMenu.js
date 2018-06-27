@@ -1,7 +1,4 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
-import { Link } from '../../../node-v8.11.3-win-x64/node_modules/react-router-dom';
-import { Glyphicon, Nav, Navbar, NavItem } from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
-import { LinkContainer } from '../../../node-v8.11.3-win-x64/node_modules/react-router-bootstrap';
 import Sidebar from '../../../node-v8.11.3-win-x64/node_modules/react-side-bar';
 import './NavMenu.css';
 
@@ -14,7 +11,9 @@ const sidebarProps = {
     },
     onOpen: () => {
         setState({opened: true})
-    }
+    },
+    <!-- Top Bar Content will be under topBar in css file-->
+    topBar: (<div className='topBar'>TopBar</div>)
 };
 
 export class NavMenu extends Component {
@@ -23,10 +22,8 @@ export class NavMenu extends Component {
     render() {
         return (
             <Sidebar {sidebarProps}>
-                <!-- Top Bar Content will be under topBar in css file-->
-                <div className='topBar'>SideBar</div>
                 <!-- Main page Content will be under main in css file-->
-                <div className='main'>main</div>
+                <div className='main'>Check out Greg with the Fancy Text</div>
             </Sidebar>        
         )
     }
