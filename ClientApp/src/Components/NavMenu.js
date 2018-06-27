@@ -1,5 +1,6 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
 import Sidebar from '../../../node-v8.11.3-win-x64/node_modules/react-side-bar';
+import { Button } from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
 import './NavMenu.css';
 
 const sidebarProps = {
@@ -15,6 +16,7 @@ const sidebarProps = {
     <!-- Top Bar Content will be under #topBar in css file-->
     topBar: (<div className='topBar'>TopBar
                 <div className='MenuButton' />
+                <Button className"button">Widgets</Button>
              </div>)
 };
 

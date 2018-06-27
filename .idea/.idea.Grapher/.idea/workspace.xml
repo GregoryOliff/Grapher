@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,8 +51,8 @@
       <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="293">
+              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="e#0#84#0" expanded="true" />
               </folding>
@@ -62,8 +63,8 @@
       <file leaf-file-name="NavMenu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="384">
+              <caret line="84" column="8" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -164,8 +165,8 @@
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Layout.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Home.js" />
         <option value="$PROJECT_DIR$/ClientApp/public/index.html" />
-        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" />
       </list>
     </option>
   </component>
@@ -1707,12 +1708,12 @@
       <workItem from="1530098075613" duration="4330000" />
       <workItem from="1530106012006" duration="2612000" />
       <workItem from="1530113852858" duration="842000" />
-      <workItem from="1530115296480" duration="6418000" />
+      <workItem from="1530115296480" duration="8318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35060000" />
+    <option name="totallyTimeSpent" value="36960000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2017,13 +2018,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/npm">
       <provider selected="true" editor-type-id="text-editor" />
@@ -2058,17 +2052,24 @@
     <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-side-bar/dist/SideBar.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="384">
+          <caret line="84" column="8" lean-forward="true" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="293">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
           </folding>
