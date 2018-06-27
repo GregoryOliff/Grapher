@@ -13,7 +13,9 @@ const sidebarProps = {
         setState({opened: true})
     },
     <!-- Top Bar Content will be under topBar in css file-->
-    topBar: (<div className='topBar'>TopBar</div>)
+    topBar: (<div className='topBar'>TopBar
+                <div className='MenuButton'></div>
+             </div>)
 };
 
 export class NavMenu extends Component {
