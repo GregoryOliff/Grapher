@@ -12,9 +12,9 @@ const sidebarProps = {
     onOpen: () => {
         setState({opened: true})
     },
-    <!-- Top Bar Content will be under topBar in css file-->
+    <!-- Top Bar Content will be under #topBar in css file-->
     topBar: (<div className='topBar'>TopBar
-                <div className='MenuButton'></div>
+                <div className='MenuButton' />
              </div>)
 };
 
@@ -24,7 +24,7 @@ export class NavMenu extends Component {
     render() {
         return (
             <Sidebar {sidebarProps}>
-                <!-- Main page Content will be under main in css file-->
+                <!-- Main page Content will be under #main in css file-->
                 <div className='main'>Check out Greg with the Fancy Text</div>
             </Sidebar>        
         )
