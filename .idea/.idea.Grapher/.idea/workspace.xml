@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/Components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/Components/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +16,7 @@
       <file leaf-file-name="GraphQLController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
+            <state>
               <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
@@ -28,7 +25,7 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="-7">
               <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
               <folding>
                 <element signature="e#0#81#0" expanded="true" />
@@ -40,7 +37,7 @@
       <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-7">
               <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
             </state>
           </provider>
@@ -49,8 +46,8 @@
       <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="391">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="e#0#84#0" expanded="true" />
               </folding>
@@ -61,7 +58,7 @@
       <file leaf-file-name="NavMenu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
+            <state relative-caret-position="-7">
               <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
             </state>
           </provider>
@@ -70,7 +67,7 @@
       <file leaf-file-name="Layout.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Layout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="-7">
               <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
             </state>
           </provider>
@@ -79,7 +76,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="-7">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
@@ -174,8 +171,8 @@
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Home.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Sidebar.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Side.js" />
-        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" />
+        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" />
       </list>
     </option>
   </component>
@@ -1755,7 +1752,7 @@
     <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1785,12 +1782,12 @@
       <workItem from="1530106012006" duration="2612000" />
       <workItem from="1530113852858" duration="842000" />
       <workItem from="1530115296480" duration="11228000" />
-      <workItem from="1530184666107" duration="5669000" />
+      <workItem from="1530184666107" duration="7659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45539000" />
+    <option name="totallyTimeSpent" value="47529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2088,14 +2085,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Controllers/GraphQLController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state>
           <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="-7">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
           <folding>
             <element signature="e#0#81#0" expanded="true" />
@@ -2105,14 +2102,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="-7">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="-7">
           <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
         </state>
       </provider>
@@ -2129,7 +2126,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Layout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="-7">
           <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
         </state>
       </provider>
@@ -2143,15 +2140,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="-7">
           <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state relative-caret-position="391">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
           </folding>

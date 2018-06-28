@@ -1,6 +1,6 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
 import Sidebar from '../../../node-v8.11.3-win-x64/node_modules/react-side-bar';
-import { Button, Glyphicon, NavItem } from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
+import { Button, Glyphicon} from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
 import { LinkContainer } from '../../../node-v8.11.3-win-x64/node_modules/react-router-bootstrap';
 import './NavMenu.css';
 
