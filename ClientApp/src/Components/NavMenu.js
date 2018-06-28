@@ -19,7 +19,8 @@ const sidebarProps = {
         setState({opened: true})
     },
     toggleBar: () => {
-      setState({ opened: !this.state.opened})  
+        if (this.state.opened) {this.onClose()} 
+        else {this.onOpen()}
     },
     <!-- Top Bar Content will be under #topBar in css file-->
     topBar: (<div className='topBar'>Hawkeye

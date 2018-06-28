@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="134">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding>
                 <element signature="e#0#84#0" expanded="true" />
               </folding>
@@ -61,8 +61,8 @@
       <file leaf-file-name="NavMenu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+            <state relative-caret-position="339">
+              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -172,10 +172,10 @@
         <option value="$PROJECT_DIR$/ClientApp/src/App.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/index.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Home.js" />
-        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Sidebar.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Side.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" />
       </list>
     </option>
   </component>
@@ -1785,12 +1785,12 @@
       <workItem from="1530106012006" duration="2612000" />
       <workItem from="1530113852858" duration="842000" />
       <workItem from="1530115296480" duration="11228000" />
-      <workItem from="1530184666107" duration="4940000" />
+      <workItem from="1530184666107" duration="5669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44810000" />
+    <option name="totallyTimeSpent" value="45539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1803,7 +1803,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
@@ -2135,13 +2134,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-side-bar/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1935">
@@ -2149,10 +2141,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
           </folding>
