@@ -19,7 +19,7 @@ const sidebarProps = {
     },
     <!-- Top Bar Content will be under #topBar in css file-->
     topBar: (<div className='topBar'>Hawkeye
-                <div>
+                <div onClick={this.toggleBar.bind(this)}>
                     <Glyphicon glyph='glyphicon-menu-hamburger' />Menu
                 </div>
                 <div className='WidgetsButton'>
