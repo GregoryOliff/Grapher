@@ -46,11 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="450">
+              <caret line="34" column="78" lean-forward="true" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-side-bar/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2115">
+              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
             </state>
           </provider>
         </entry>
@@ -58,7 +67,7 @@
       <file leaf-file-name="NavMenu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="548">
               <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
             </state>
           </provider>
@@ -178,6 +187,12 @@
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -1711,6 +1726,24 @@
               <item name="src" type="6f407253:SolutionExplorerNodeFileSystem" />
               <item name="Components" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node_modules" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node_modules" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="react-side-bar" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1758,12 +1791,12 @@
       <workItem from="1530106012006" duration="2612000" />
       <workItem from="1530113852858" duration="842000" />
       <workItem from="1530115296480" duration="11228000" />
-      <workItem from="1530184666107" duration="2823000" />
+      <workItem from="1530184666107" duration="3719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42693000" />
+    <option name="totallyTimeSpent" value="43589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1780,12 +1813,12 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5010661" side_tool="true" weight="0.44880176" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50159913" side_tool="true" weight="0.44880176" />
       <window_info anchor="bottom" id="Unit Tests" order="3" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.4989339" visible="true" weight="0.44880176" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49840087" visible="true" weight="0.44880176" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.26599148" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -1810,13 +1843,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Data/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -2091,24 +2117,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Layout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="118" selection-start-line="10" selection-start-column="118" selection-end-line="10" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -2122,10 +2134,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="75" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="450">
+          <caret line="34" column="78" lean-forward="true" selection-start-line="34" selection-start-column="78" selection-end-line="34" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-side-bar/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2115">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
         </state>
       </provider>
     </entry>
