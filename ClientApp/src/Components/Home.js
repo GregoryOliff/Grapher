@@ -20,7 +20,7 @@ export class Home extends Component {
                 <h1>Hello, World!</h1>
                 <p>Welcome to a single page application used to demonstrate the power of GraphQL, C3/D3, and React!!</p>
                 <p>Check out this graph I made by pulling in data with GraphQL, and making the chart itself with C3/D3</p>
-                <div></div>
+                <div content={chart} />
             </div>
         )
     }
