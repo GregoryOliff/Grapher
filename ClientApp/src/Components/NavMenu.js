@@ -5,7 +5,11 @@ import { LinkContainer } from '../../../node-v8.11.3-win-x64/node_modules/react-
 import './NavMenu.css';
 
 const sidebarProps = {
-    bar: (<div>BestDamnSidebar</div>),
+    bar: (<LinkContainer to={'/'} exact>
+            <NavItem>
+                <Glyphicon glyph='home'/>Home
+            </NavItem>
+          </LinkContainer>),
     size: 200,
     opened: this.state.opened,
     onClose: () => {
