@@ -1,5 +1,13 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
+import { graphql, buildSchema } from '../../../node-v8.11.3-win-x64/node_modules/graphql'
+import '../../../Grapher.Api.*';
+import '../../../Grapher.Core.*';
+import '../../../Grapher.Data.*';
+import 
 
+let schema = buildSchema {
+    query: GrapherQuery  
+}
 export class Home extends Component {
     displayName = Home.name
     
