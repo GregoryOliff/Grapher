@@ -1,6 +1,7 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
 import Sidebar from '../../../node-v8.11.3-win-x64/node_modules/react-side-bar';
-import { Button } from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
+import { Button, Glyphicon, NavItem } from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
+import { LinkContainer } from '../../../node-v8.11.3-win-x64/node_modules/react-router-bootstrap';
 import './NavMenu.css';
 
 const sidebarProps = {
@@ -14,9 +15,13 @@ const sidebarProps = {
         setState({opened: true})
     },
     <!-- Top Bar Content will be under #topBar in css file-->
-    topBar: (<div className='topBar'>TopBar
-                <div className='MenuButton' />
-                <Button className"button">Widgets</Button>
+    topBar: (<div className='topBar'>Hawkeye
+                <div>
+                    <Glyphicon glyph='glyphicon-menu-hamburger' />Menu
+                </div>
+                <div className='WidgetsButton'>
+                    <Button className='button'>Widgets</Button>
+                </div>
              </div>)
 };
 
