@@ -82,8 +82,8 @@
       <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="68">
+              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
               <folding>
                 <element signature="e#0#84#0" expanded="true" />
               </folding>
@@ -198,8 +198,8 @@
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Sidebar.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Side.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css" />
-        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" />
         <option value="$PROJECT_DIR$/ClientApp/src/Components/Home.js" />
+        <option value="$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js" />
       </list>
     </option>
   </component>
@@ -1786,12 +1786,12 @@
       <workItem from="1530113852858" duration="842000" />
       <workItem from="1530115296480" duration="11228000" />
       <workItem from="1530184666107" duration="13228000" />
-      <workItem from="1530271840273" duration="6929000" />
+      <workItem from="1530271840273" duration="7488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60027000" />
+    <option name="totallyTimeSpent" value="60586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1813,7 +1813,7 @@
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49781182" visible="true" weight="0.44880176" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49781182" visible="true" weight="0.44880176" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.15245202" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -2142,8 +2142,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
           <folding>
             <element signature="e#0#84#0" expanded="true" />
           </folding>

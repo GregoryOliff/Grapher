@@ -18,8 +18,11 @@ flight.query ({
 var chart = c3.generate({
     data:{
         columns:[
-            ['flight speed over time', speedData]
-        ]    
+            ['data1', speedData]
+        ],    
+        name: {
+            data1: 'X = Time, Y = Speed (mph)'
+        }
     }
 });
 
