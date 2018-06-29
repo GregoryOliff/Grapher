@@ -1,13 +1,15 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
 import Sidebar from '../../../node-v8.11.3-win-x64/node_modules/react-side-bar';
-import { Button, Glyphicon} from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
+import { NavItem, Button, Glyphicon} from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
 import { LinkContainer } from '../../../node-v8.11.3-win-x64/node_modules/react-router-bootstrap';
 import './NavMenu.css';
 
 const sidebarProps = {
     bar: (<LinkContainer to={'/'} exact>
             <NavItem>
-                <Glyphicon glyph='home'/>Home
+                <Button bsSize="large" >
+                    <Glyphicon glyph='home'/>Home
+                </Button>    
             </NavItem>
           </LinkContainer>),
     size: 200,
