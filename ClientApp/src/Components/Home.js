@@ -1,16 +1,28 @@
 import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
-import { graphql, buildSchema } from '../../../node-v8.11.3-win-x64/node_modules/graphql'
-import '../../../Grapher.Api.*';
-import '../../../Grapher.Core.*';
-import '../../../Grapher.Data.*';
+//import { graphql } from '../../../node-v8.11.3-win-x64/node_modules/graphql'
+import  flight  from '../../../Grapher.Core/Models/Flight.cs';
+import gql from '../../../node-v8.11.3-win-x64/node_modules/graphql-tag'
+
+let speedData;
+
+flight.query ({
+    query: gql `
+        query GrapherQuery {
+           flight( name = "flight1" ){
+               recordedSpeeds
+           } 
+        }
+    `
+}) .then(speedData  = response.data)
 
 var chart = c3.generate({
     data:{
         columns:[
-            ['flight speed over time', /* insert graphQL query to get flight speed for aircraft1 flight1 here*/]
-        ]
+            ['flight speed over time', speedData]
+        ]    
     }
 });
+
 export class Home extends Component {
     displayName = Home.name
     
