@@ -19,7 +19,10 @@ var chart = c3.generate({
     data:{
         columns:[
             ['data1', speedData]
-        ],    
+        ],
+        
+        type: 'spline',
+        
         name: {
             data1: 'X = Time, Y = Speed (mph)'
         }
