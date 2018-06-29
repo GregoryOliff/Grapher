@@ -15,7 +15,7 @@ flight.query ({
     `
 }) .then(speedData  = response.data)
 
-var chart = c3.generate({
+let chart = c3.generate({
     data:{
         columns:[
             ['data1', speedData]
