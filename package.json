@@ -1,0 +1,21 @@
+{
+  "homepage": "https://github.com/GregoryOliff/Grapher.git",
+  "bugs": {
+    "url": "https://github.com/GregoryOliff/Grapher/issues",
+    "email": "k31thstone@gmail.com"
+  },
+  "license": "UNLICENSED",
+
+  "contributors": [
+    {
+      "name": "Gregory Oliff"
+      "email": "k31thstone@gmail.com"
+      "url": "https://github.com/GregoryOliff"
+    }
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GregoryOliff/Grapher.git"
+  }
+}
