@@ -1,7 +1,7 @@
-import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
-import Sidebar from '../../../node-v8.11.3-win-x64/node_modules/react-side-bar';
-import { NavItem, Button, Glyphicon} from '../../../node-v8.11.3-win-x64/node_modules/react-bootstrap';
-import { LinkContainer } from '../../../node-v8.11.3-win-x64/node_modules/react-router-bootstrap';
+import React, { Component } from '../../../Packages/node-v8.11.3-win-x64/node_modules/react';
+import Sidebar from '../../../Packages/node-v8.11.3-win-x64/node_modules/react-side-bar';
+import { NavItem, Button, Glyphicon} from '../../../Packages/node-v8.11.3-win-x64/node_modules/react-bootstrap';
+import { LinkContainer } from '../../../Packages/node-v8.11.3-win-x64/node_modules/react-router-bootstrap';
 import './NavMenu.css';
 
 const sidebarProps = {

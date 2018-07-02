@@ -1,7 +1,7 @@
-import React, { Component } from '../../../node-v8.11.3-win-x64/node_modules/react';
+import React, { Component } from '../../../Packages/node-v8.11.3-win-x64/node_modules/react';
 //import { graphql } from '../../../node-v8.11.3-win-x64/node_modules/graphql'
 import  flight  from '../../../Grapher.Core/Models/Flight.cs';
-import gql from '../../../node-v8.11.3-win-x64/node_modules/graphql-tag'
+import gql from '../../../Packages/node-v8.11.3-win-x64/node_modules/graphql-tag'
 
 let speedData;
 

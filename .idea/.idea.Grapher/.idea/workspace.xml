@@ -14,8 +14,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="391">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -168,7 +168,7 @@
     <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Packages/node-v8.11.3-win-x64/npm.cmd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ClientApp/src/index.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -207,7 +207,7 @@
       <option name="PROJECT_TFM" value="" />
       <browser start="true" />
     </configuration>
-    <configuration name="Default" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$PROJECT_DIR$/Packages/node-v8.11.3-win-x64/npm.cmd" node-parameters="start" path-to-js-file="Grapher.Api/Startup.cs" working-dir="$PROJECT_DIR$" />
+    <configuration name="Default" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$PROJECT_DIR$/Packages/node-v8.11.3-win-x64/npm.cmd" node-parameters="start" path-to-js-file="ClientApp/src/index.js" working-dir="$PROJECT_DIR$" />
     <configuration name="Default" type="ReactNative" factoryName="React Native" singleton="true">
       <node-interpreter value="$PROJECT_DIR$/node-v8.11.3-win-x64/npm" />
       <react-native value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-native-cli" />
@@ -268,12 +268,12 @@
       <workItem from="1530115296480" duration="11228000" />
       <workItem from="1530184666107" duration="13228000" />
       <workItem from="1530271840273" duration="12308000" />
-      <workItem from="1530530273788" duration="10293000" />
+      <workItem from="1530530273788" duration="12168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75699000" />
+    <option name="totallyTimeSpent" value="77574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="391">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
