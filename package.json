@@ -14,11 +14,6 @@
       "url": "https://github.com/GregoryOliff"
     }
   ],
-
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GregoryOliff/Grapher.git"
-  },
   
   "scripts": {
     "start": "node H:\Grapher\ClientApp\src\index.js"
