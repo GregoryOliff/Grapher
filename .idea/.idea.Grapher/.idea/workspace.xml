@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -275,12 +276,12 @@
       <workItem from="1530115296480" duration="11228000" />
       <workItem from="1530184666107" duration="13228000" />
       <workItem from="1530271840273" duration="12308000" />
-      <workItem from="1530530273788" duration="8910000" />
+      <workItem from="1530530273788" duration="9209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74316000" />
+    <option name="totallyTimeSpent" value="74615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,6 +294,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-967" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
@@ -300,8 +302,8 @@
       <window_info anchor="bottom" id="Unit Tests" order="3" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.27942795" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49733475" visible="true" weight="0.4620462" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.27942795" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49733475" weight="0.4620462" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.31619257" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" sideWeight="0.4989339" weight="0.32893288" />
@@ -602,7 +604,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
