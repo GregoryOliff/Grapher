@@ -1,5 +1,6 @@
 {
   "homepage": "https://github.com/GregoryOliff/Grapher.git",
+  "main": "index.js",
   "bugs": {
     "url": "https://github.com/GregoryOliff/Grapher/issues",
     "email": "k31thstone@gmail.com"
