@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grapher.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Grapher.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,95 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Home.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-              <folding>
-                <element signature="e#164#226#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GrapherSeedData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Data/GrapherSeedData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4267">
-              <caret line="251" column="22" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlightRepository.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Data/Repositories/FlightRepository.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Flight.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Flight.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GrapherSchema.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Aircraft.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Core/Models/Aircraft.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GrapherQuery.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherQuery.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavMenu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavMenu.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -362,6 +275,7 @@
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/babel-preset-react/node_modules/to-fast-properties/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/babel-preset-react/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/graphql-tag/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/graphql/node_modules/iterall/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/graphql/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/npm/node_modules/JSONStream/node_modules/jsonparse/package.json" />
@@ -846,6 +760,27 @@
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/npm/node_modules/wrappy/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/npm/node_modules/write-file-atomic/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/npm/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-apollo/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-bootstrap/node_modules/babel-runtime/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-bootstrap/node_modules/classnames/package.json" />
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-bootstrap/node_modules/core-js/package.json" />
@@ -1700,17 +1635,17 @@
       <path value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/webpack/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-967" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -1718,13 +1653,17 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Grapher.Api" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1735,7 +1674,9 @@
     <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node-v8.11.3-win-x64/npm.cmd" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RunDashboard">
@@ -1749,6 +1690,71 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Default">
+    <configuration name="Default" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="5000">
+      <method>
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Default" run_configuration_type="NodeJSConfigurationType" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="5000" />
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <browser start="true" />
+    </configuration>
+    <configuration name="Default" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$PROJECT_DIR$/node-v8.11.3-win-x64/npm.cmd" node-parameters="start" path-to-js-file="Grapher.Api/Startup.cs" working-dir="$PROJECT_DIR$" />
+    <configuration name="Default" type="ReactNative" factoryName="React Native" singleton="true">
+      <node-interpreter value="$PROJECT_DIR$/node-v8.11.3-win-x64/npm" />
+      <react-native value="$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-native-cli" />
+      <platform value="IOS" />
+      <run-arguments value="--simulator=&quot;iPhone 6&quot;" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="$PROJECT_DIR$/node-v8.11.3-win-x64/npm" />
+      <react-native value="" />
+      <platform value="ANDROID" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+    </configuration>
+    <configuration name="Default" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:js" />
+      </scripts>
+      <node-interpreter value="$PROJECT_DIR$/node-v8.11.3-win-x64/npm" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build:js" />
+      </scripts>
+      <node-interpreter value="$PROJECT_DIR$/node-v8.11.3-win-x64/npm" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Default" />
+      <item itemvalue="Node.js.Default" />
+      <item itemvalue="npm.Default" />
+      <item itemvalue="React Native.Default" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1767,12 +1773,13 @@
       <workItem from="1530113852858" duration="842000" />
       <workItem from="1530115296480" duration="11228000" />
       <workItem from="1530184666107" duration="13228000" />
-      <workItem from="1530271840273" duration="11275000" />
+      <workItem from="1530271840273" duration="12308000" />
+      <workItem from="1530530273788" duration="5740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64373000" />
+    <option name="totallyTimeSpent" value="71146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1784,23 +1791,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-967" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5021882" side_tool="true" weight="0.4532453" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5010661" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Unit Tests" order="3" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49781182" visible="true" weight="0.44880176" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.740374" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49733475" weight="0.4477448" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.15245202" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.31619257" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" sideWeight="0.4989339" weight="0.32897604" />
+      <window_info anchor="bottom" id="Build" weight="0.32897604" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="2" sideWeight="0.50108933" side_tool="true" weight="0.25266525" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39978212" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -1818,48 +1826,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/TemporaryDbContextFactory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/DesignTimeDbContextFactoryBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="60" column="46" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/Repositories/AircraftRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/AircraftInputType.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/FlightInputType.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/FlightType.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1880,13 +1846,6 @@
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/manifest.json" />
     <entry file="file://$PROJECT_DIR$/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90">
@@ -1995,9 +1954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2037,9 +1993,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/schema.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/schema.js" />
     <entry file="file://$PROJECT_DIR$/Grapher.Api/Models/GrapherSchema.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -2068,9 +2022,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/npm/npm.cmd" />
+    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/npm.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#164#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/react-native">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-native-cli/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/react-native-cli/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grapher.Data/GrapherSeedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="251" column="22" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Grapher.Data/Repositories/FlightRepository.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
+        <state relative-caret-position="447">
           <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
@@ -2092,35 +2092,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/node_modules/npm/npm.cmd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/NavMenu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
+        <state relative-caret-position="325">
           <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grapher.Data/GrapherSeedData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4267">
-          <caret line="251" column="22" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node-v8.11.3-win-x64/npm.cmd">
+    <entry file="file://$PROJECT_DIR$/Certs/localhost.pfx">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClientApp/src/Components/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding>
-            <element signature="e#164#226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/build/react.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
