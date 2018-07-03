@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="" />
+    <list default="true" id="4d9dbf02-f63c-49db-b0fd-ddfdce600b09" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Grapher/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="actions.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClientApp/src/Redux/actions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Grapher.Core/Grapher.Core.csproj" />
         <option value="$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj" />
         <option value="$PROJECT_DIR$/Grapher.Data/Grapher.Data.csproj" />
         <option value="$PROJECT_DIR$/Grapher.Api/Models/appsettings.json" />
@@ -110,6 +121,7 @@
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/CustomWebHostService.cs" />
         <option value="$PROJECT_DIR$/WebHostServiceExtensions.cs" />
+        <option value="$PROJECT_DIR$/ClientApp/src/Redux/actions.js" />
       </list>
     </option>
   </component>
@@ -1706,6 +1718,52 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="ClientApp" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="ClientApp" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="src" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Packages" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Packages" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Packages" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node_modules" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Packages" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node_modules" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="react-redux" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Grapher" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="Packages" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node-v8.11.3-win-x64" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="node_modules" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="react-redux" type="6f407253:SolutionExplorerNodeFileSystem" />
+              <item name="src" type="6f407253:SolutionExplorerNodeFileSystem" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1849,12 +1907,12 @@
       <workItem from="1530530273788" duration="17090000" />
       <workItem from="1530555315655" duration="1928000" />
       <workItem from="1530625145114" duration="385000" />
-      <workItem from="1530636509454" duration="951000" />
+      <workItem from="1530636509454" duration="1768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85760000" />
+    <option name="totallyTimeSpent" value="86577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1867,6 +1925,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32897604" />
       <window_info anchor="right" id="Errors In Solution" order="1" />
@@ -1875,9 +1934,9 @@
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.4640523" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.49733475" visible="true" weight="0.46187365" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49733475" visible="true" weight="0.46187365" />
       <window_info anchor="bottom" id="NuGet" order="0" weight="0.32897604" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.15884861" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49891067" visible="true" weight="0.15884861" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" sideWeight="0.4989339" weight="0.32893288" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="2" sideWeight="0.50108933" side_tool="true" weight="0.25266525" />
@@ -1901,13 +1960,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Grapher.Api/Grapher.Api.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/c3-0.6.2/c3-0.6.2/Gemfile.lock" />
     <entry file="file://$PROJECT_DIR$/ClientApp/src/index.css">
@@ -2151,6 +2203,13 @@
           <folding>
             <element signature="e#173#235#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/src/Redux/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
