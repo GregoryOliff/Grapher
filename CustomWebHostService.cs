@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting.WindowsServices;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace ALE
+namespace Grapher
 {
 #region Logging
 internal class CustomWebHostService : WebHostService

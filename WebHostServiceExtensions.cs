@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using System.ServiceProcess;
 
-namespace ALE
+namespace Grapher
 {
     #region ExtensionsClass
     public static class WebHostServiceExtensions

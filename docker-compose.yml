@@ -2,7 +2,7 @@ version: '2.1'
 
 services:
   ale:
-    image: ale
+    image: grapher
     build: .
     ports:
       - 3000:3000

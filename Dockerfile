@@ -15,7 +15,7 @@ COPY --from=build /output /app
 
 WORKDIR /app
 
-ENTRYPOINT [ "dotnet", "Ale.dll" ]
+ENTRYPOINT [ "dotnet", "Grapher.dll" ]
 
 #docker pull to get Images from hub.docker.com
 

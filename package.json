@@ -14,8 +14,11 @@
       "url": "https://github.com/GregoryOliff"
     }
   ],
+
+  "main": "index.js",
   
   "scripts": {
-    "start": "node H:\Grapher\ClientApp\src\index.js"
+    "start": "node index.js",
+    "webpack-script": "webpack"
   }
 }
